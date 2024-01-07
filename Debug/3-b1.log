@@ -1,0 +1,14 @@
+﻿  3-b1.cpp
+D:\homework\3-b1\3-b1.cpp(21,26): error C3861: “getch”: 找不到标识符
+D:\homework\3-b1\3-b1.cpp(23,22): error C2065: “KEY_UP”: 未声明的标识符
+D:\homework\3-b1\3-b1.cpp(23,22): error C2131: 表达式的计算结果不是常数
+D:\homework\3-b1\3-b1.cpp(23,22): message : 遇到非常量(子)表达式
+D:\homework\3-b1\3-b1.cpp(26,22): error C2065: “KEY_DOWN”: 未声明的标识符
+D:\homework\3-b1\3-b1.cpp(26,22): error C2131: 表达式的计算结果不是常数
+D:\homework\3-b1\3-b1.cpp(26,22): message : 遇到非常量(子)表达式
+D:\homework\3-b1\3-b1.cpp(29,22): error C2065: “KEY_LEFT”: 未声明的标识符
+D:\homework\3-b1\3-b1.cpp(29,22): error C2131: 表达式的计算结果不是常数
+D:\homework\3-b1\3-b1.cpp(29,22): message : 遇到非常量(子)表达式
+D:\homework\3-b1\3-b1.cpp(32,22): error C2065: “KEY_RIGHT”: 未声明的标识符
+D:\homework\3-b1\3-b1.cpp(32,22): error C2131: 表达式的计算结果不是常数
+D:\homework\3-b1\3-b1.cpp(32,22): message : 遇到非常量(子)表达式
